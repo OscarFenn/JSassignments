@@ -1,0 +1,12 @@
+c.log: 
+console.log: Outputs a message to the Web Console.
+invocations-invoking: An invocation expression consists of a function expression that evaluates to a function object followed by an open parenthesis, 
+a comma-separated list of zero or more argument expressions, and a close parenthesis.
+grunt: Grunt is a task-based command line build tool for JavaScript projects.
+refactoring: technique for restructuring an existing body of code, 
+altering its internal structure without changing its external behavior
+assert: They are used to verify the correctness of an invariant in the code
+functions: a block of code that will be executed when "someone" calls it
+pass function: 
+comparisons: Comparison operators are used in logical statements to determine equality 
+or difference between variables or values.
